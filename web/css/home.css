@@ -1,0 +1,40 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Jun 11, 2023, 3:04:58 AM
+    Author     : HOANGHIEP
+*/
+
+/*.mb-3{
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+}
+.col-sm-9{
+    margin: auto;
+    text-align: center;
+    width: fit-content;
+}*/
+.home-tile {
+  width: 600px; /* Độ rộng của khung */
+  height: auto; /* Chiều cao của khung */
+  
+  border: 1px solid scrollbar; /* Viền của khung */
+  border-radius: 25px; /* Bo các góc của khung */
+  display: flex; /* Hiển thị phần tử dưới dạng flex */
+  justify-content: center; /* Căn giữa theo chiều ngang */
+  align-items: center; /* Căn giữa theo chiều dọc */
+  background: #0397d6;
+margin: 40px auto; /* Khoảng cách trên và dưới */
+font-family: unset;
+  padding-top: 5px;
+ 
+}
+.img-fluid{
+    margin-top: -10px;
+}
+
+
+
